@@ -1,5 +1,5 @@
 <h2>⋆. 𐙚 ˚ Hi everyone, I'm Ola! ⋆. 𐙚 ˚</h2>
-Data Science, AI, and Mathematics student on the pre-med track at the University of Miami. 
+Data Science, AI, & Mathematics student on the pre-med track at the University of Miami. 
 
 Passionate about patient-first machine learning solutions in healthcare
 
