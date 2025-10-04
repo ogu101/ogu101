@@ -21,14 +21,6 @@ Passionate about patient-first machine learning solutions in healthcare
 - [Fleet Management System](https://github.com/ogu101/Fleet-Management-System)
 - [Roman Numerals Population Growth Simulator](https://github.com/ogu101/Roman-Numerals-Population-Growth-Simulator)
 
-<h2>Research</h2>
-
-- <b>Research Experience 1</b>
-  - [LINK]
-- <b>Research Experience 2</b>
-  - [LINK]
-- <b>Research Experience 3</b>
-  - [LINK]
 
 <h2>Connect with me:</h2>
 
